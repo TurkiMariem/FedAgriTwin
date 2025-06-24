@@ -18,7 +18,7 @@ This will start the server at http://localhost:5000
 
 b-   Install and run the Eclipse Ditto environment 
 
-Use the Docker image available at the following link: \url{<insert-link-here>}.
+Use the Docker image available at the following link: https://github.com/eclipse-ditto/ditto.git
  Once the Ditto instance is running, the DT configuration can be initialized via Postman by importing a predefined JSON file. This JSON file automates several critical tasks, including:
  
 **The creation of access policies
