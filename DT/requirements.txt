@@ -1,8 +1,0 @@
-Flask==2.3.3
-kafka-python==2.0.2
-joblib
-numpy
-scikit-learn
-confluent_kafka
-pandas
-requests
