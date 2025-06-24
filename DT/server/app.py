@@ -5,7 +5,7 @@ import json
 import threading
 
 # Load trained model
-model = joblib.load('MLP.h5')
+model = joblib.load('model_mlp.h5')
 
 # Initialize Flask app
 app = Flask(__name__)
