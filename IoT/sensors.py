@@ -16,7 +16,7 @@ THING_ID = "agriculture/CropTwin"
 MQTT_TOPIC = f"{THING_ID}/things/twin/commands/modify"
 SUBSCRIBE_TOPIC = f"{THING_ID}/things/twin/events/modified"
 
-MQTT_BROKER = "192.168.1.100"   # Ditto on same Pi
+MQTT_BROKER = "192.168.1.100"   # here you have to put the IP adress of the broker
 MQTT_PORT = 1883
 USERNAME = "ditto"
 PASSWORD = "ditto"
